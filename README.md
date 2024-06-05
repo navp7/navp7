@@ -19,10 +19,8 @@ Connect with me: I'm always up for chatting about data related field. Reach out 
 
 **In the meantime, feel free to explore and get to know me better.**
 
-#### [LinkedIn](www.linkedin.com/in/navneet-prajapati1402)
-
-#### [HackerRank](https://www.hackerrank.com/profile/pnavneet_97)
-
-#### [Portfolio Website](https://navneet1497.github.io/portfolio.github.io/index.html)
+- [LinkedIn](www.linkedin.com/in/navneet-prajapati1402)
+- [HackerRank](https://www.hackerrank.com/profile/pnavneet_97)
+- [Portfolio Website](https://navneet1497.github.io/portfolio.github.io/index.html)
 
 
